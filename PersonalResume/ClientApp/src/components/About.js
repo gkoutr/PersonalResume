@@ -44,7 +44,7 @@ export class About extends Component {
     //Here we are adding our About information. As a bonus, we are adding icons and links for linkedin, github, and email.
     render() {
         return (
-            <div className="basic-info">
+            <div style={{ padding: "15px"}}>
                 <Row>
                     <Col md={2}>
                         <img style={{ height: "100px" }} src={logo} />
