@@ -1,0 +1,44 @@
+﻿[
+  {
+    "Id": 1,
+    "Category": "Programming Languages",
+    "SkillsList": [
+      "C# (.NET, MVC)",
+      "HTML",
+      "CSS3",
+      ".LESS",
+      "JavaScript",
+      "Java",
+      "SQL",
+      "JSON",
+      "XML"
+    ]
+  },
+  {
+    "Id": 2,
+    "category": "JavaScript Frameworks",
+    "skillsList": [
+      "React.js",
+      "jQuery",
+      "AngularJS"
+    ]
+  },
+  {
+    "Id": 3,
+    "category": "Cloud Service",
+    "skillsList": [
+      "AWS EC2",
+      "Bamboo",
+      "Heroku"
+    ]
+  },
+  {
+    "Id": 4,
+    "category": "Database Management",
+    "skillsList": [
+      "SQL Server",
+      "MongoDB"
+    ]
+  }
+
+]
