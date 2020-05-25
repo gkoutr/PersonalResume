@@ -1,0 +1,22 @@
+﻿[
+  {
+    "Id": 1,
+    "Name": "University of Maryland, Baltimore County",
+    "Logo": "umbc.png",
+    "Major": "Computer Science",
+    "Degree": "Master of Science",
+    "StartDate": "Jan 2017",
+    "EndDate": "Dec 2019",
+    "Location": "Baltimore, MD"
+  },
+  {
+    "Id": 2,
+    "Name": "University of Maryland, Baltimore County",
+    "Logo": "umbc.png",
+    "Major": "Computer Science",
+    "Degree": "Bachelor of Science",
+    "StartDate": "Aug 2012",
+    "EndDate": "Dec 2016",
+    "Location": "Baltimore, MD"
+  }
+]

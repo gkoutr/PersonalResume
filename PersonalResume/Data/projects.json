@@ -1,0 +1,14 @@
+[
+  {
+    "Id": 1,
+    "Title": "Personal Porfolio",
+    "Image": "project.png",
+    "Description": "A template to build your own personal portfolio website. Built in .NET Core and React.js",
+    "HasWebLink": true,
+    "WebUrl": "https://www.gkoutr.com",
+    "HasGithubLink": true,
+    "GithubUrl": "gkoutr/PersonalResume",
+    "HasDownloadLink": false,
+    "DownloadUrl": ""
+  }
+]
