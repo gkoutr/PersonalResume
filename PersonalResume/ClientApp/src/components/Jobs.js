@@ -17,7 +17,6 @@ export class Jobs extends Component {
             jobs: [],
             isLoading: true
         }
-
     }
 
     //Calls the JobsController endpoint /api/jobs when the component is mounted in the DOM.
@@ -34,7 +33,7 @@ export class Jobs extends Component {
     //else clause will loop through the list of jobs and render a Job component from the subcomponents folder. 
     render() {
         if (this.state.isLoading) {
-            return (<div className=" spinner-border image-center" style={{ width: '5rem', height: '5rem' }}> <div/>{' '}</div>);
+            return (<div className=" spinner-border image-center" style={{ width: '5rem', height: '5rem' }}> <div />{' '}</div>);
         }
         else {
             return (
@@ -49,6 +48,5 @@ export class Jobs extends Component {
                 </div>
             );
         }
-
     }
 };
