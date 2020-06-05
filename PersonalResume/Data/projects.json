@@ -5,7 +5,7 @@
     "Image": "project.png",
     "Description": "A template to build your own personal portfolio website. Built in .NET Core and React.js",
     "HasWebLink": true,
-    "WebUrl": "https://www.gkoutr.com",
+    "WebUrl": "https://personal-resume.azurewebsites.net/",
     "HasGithubLink": true,
     "GithubUrl": "gkoutr/PersonalResume",
     "HasDownloadLink": false,
